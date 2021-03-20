@@ -95,7 +95,7 @@ const Contact = () => {
                 ></textarea>
               </div>
               <div class="col-12">
-                <button class="btn btn-outline-primary" type="submit">
+                <button class="btn btn-outline-primary mb-3" type="submit">
                   Send
                 </button>
               </div>
